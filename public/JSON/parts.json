@@ -1,0 +1,131 @@
+[
+  {
+    "name": "CABEZAL DX4",
+    "description": "original solvente",
+    "mainImage": "images/Repuestos/dx4.jpg"
+  },
+  {
+    "name": "CABEZAL DX5",
+    "description": "original solvente",
+    "mainImage": "images/Repuestos/cabezadx5.jpg"
+  },
+  {
+    "name": "CABEZAL XAAR (celeste)",
+    "description": "original solvente",
+    "mainImage": "images/Repuestos/xaar.jpg"
+  },
+  {
+    "name": "DAMPER GRANDE ROLAND",
+    "description": " ",
+    "mainImage": "images/Repuestos/dumperBigRoland.jpg"
+  },
+  {
+    "name": "SCRAPER ROLAND",
+    "description": "solvent resisten"
+  },
+  {
+    "name": "MANIFOLD ROLAND",
+    "description": "dx4",
+    "mainImage": "images/Repuestos/manifoldRoland.jpg"
+  },
+  {
+    "name": "CABLES PLANOS 15P 1 ROLAND",
+    "description": "carro de corte sp540",
+    "mainImage": "images/Repuestos/15p.jpg"
+  },
+  {
+    "name": "CABLES PLANOS 36P1 ROLAND",
+    "description": "roland sp540"
+  },
+  {
+    "name": "ENCODER ALTERNATIVO",
+    "description": "Todos los equipos roland/mimaki/mutho/chinos,etc"
+  },
+  {
+    "name": "ESPONJAS CHICAS ROLAND",
+    "description": "solvent resisten"
+  },
+  {
+    "name": "ESPONJAS GRANDES ROLAND",
+    "description": "solvent resisten"
+  },
+  {
+    "name": "CUCHILLAS DE CORTE 40°",
+    "description": "alternative",
+    "mainImage": "images/Repuestos/cuchillas40.jpg"
+  },
+  {
+    "name": "CUCHILLAS DE CORTE 60°",
+    "description": "alternative",
+    "mainImage": "images/Repuestos/cuchillas60.jpg"
+  },
+  {
+    "name": "Damper Corto",
+    "description": "Roland SP/VP/RS/XJ - Mimaki modelo JV3 SL (2 cabezales) Mutoh dx4 print head"
+  },
+  {
+    "name": "Capping Station",
+    "description": "Roland SP/VP/RS/XJ - Mimaki modelo JV3 SL y JV3 SP (la SP tiene 4 cabezales)"
+  },
+  {
+    "name": "Sol Pump Tube Transparent (manguera tinta)",
+    "description": "Equipos varios"
+  },
+  {
+    "name": "Wiper Dx4",
+    "description": "Roland SP/VP/RS/XJ - Mimaki modelos JV3 SL y SP",
+    "mainImage": "images/Repuestos/wiper.jpg"
+  },
+  {
+    "name": "Head Cable Dx5",
+    "description": "Mimaki modelos JV33 y JV5"
+  },
+  {
+    "name": "FILTROS DE TINTA",
+    "description": "Filtros de tinta para Flora y otros equipos asiáticos (preguntar x equipos)",
+    "mainImage": "images/Repuestos/filtrosTitnas1.jpg"
+  },
+  {
+    "name": "Hisopos de Limpieza",
+    "description": "Hisopos de lipmieza varios usos.",
+    "mainImage": "images/Repuestos/isopos.jpg"
+  },
+  {
+    "name": "Id Board",
+    "description": "Adicional cabezal Dx5 para Mimaki Jv3 y Jv5"
+  },
+  {
+    "name": "Embudos",
+    "description": "Embudos para cartuchos recargables (rellenado sin manchas)"
+  },
+  {
+    "name": "New Pump ORIGINAL",
+    "description": "Bomba de tinta para Roland RS640",
+    "mainImage": "images/Repuestos/newPumpOrg.jpg"
+  },
+  {
+    "name": "New Pump ALTERNATIVE",
+    "description": "Bomba de tinta para Roland RS640",
+    "mainImage": "images/Repuestos/newPumpAlt.jpg"
+  },
+  {
+    "name": "Cuchillas para Cutter ROLAND",
+    "description": "Para Roland/Camm-1 45° y 60°",
+    "mainImage": "images/Repuestos/roland60.jpg"
+  },
+  {
+    "name": "Cuchillas para Cutter MIMAKI",
+    "description": "Para MIMAKI 37° y 56° compatible Mimaki CG Series",
+    "mainImage": "images/Repuestos/mimaki45.jpg"
+  },
+  {
+    "name": "Cuchillas para Cutter GRAPHTEC",
+    "description": "Para Graphtec 45° y 60°",
+    "mainImage": "images/Repuestos/graphtec45.jpg"
+  },
+  {
+    "name": "Cuchillas para Cutter IOLINE",
+    "description": "Para Ioline 45° y 60°",
+    "mainImage": "images/Repuestos/ioline45.jpg"
+  }
+]

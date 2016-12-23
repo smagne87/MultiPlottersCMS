@@ -1,0 +1,22 @@
+//
+   Created by smagne on 10/18/2016.
+
+extends ../layout
+
+block content
+    h1 Login
+    div(class="columns medium-6")
+        form(name="login", id="frmLogin", action="/users/login", method="post")
+            div(class="columns medium-12")
+                label Email
+                    input(type="text" id="txtEmail" name="email" data-error-message="Email requerido" data-error-format-message="Formato de email invalido")
+            div(class="columns medium-12")
+                label Password
+                    input(type="password" id="txtPassword" name="password" data-error-message="Password requerida")
+            div(class="columns medium-12")
+                button(type="submit", class="button", id="btnLogin") Login
+    div(class="columns medium-12 error-block callout hide alert")
+        p
+block javascript
+    script(src='/javascripts/validation.js', type='text/javascript')
+    script(src='/javascripts/multi.user.js', type='text/javascript')

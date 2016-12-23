@@ -1,0 +1,81 @@
+//
+   Created by smagne on 10/18/2016.
+
+extends ../layout
+
+block menu
+    ul(class="menu")
+        li
+            a(href="/") Inicio
+        li
+            a(href="/users/") Usuarios
+        li
+            a(href="/brands/") Marcas Plotters
+        li
+            a(href="/plotter/") Plotters
+        li
+            a(href="/supplies/") Suministros
+        li
+            a(href="/parts/") Repuestos
+        li
+            a(href="/services/") Servicios
+
+block content
+    h1 Usuarios
+    button(class="button" type="button" id="btnCreate") Crear
+    ul(class="tabs" data-tabs id="cms-tabs")
+        li(class="tabs-title is-active")
+            a(href="#tab1" aria-selected="true") Lista
+        li(class="tabs-title")
+            a(href="#tab2" aria-selected="true") Crear/Editar
+
+    div(class="tabs-content" data-tabs-content="cms-tabs")
+        div(class="tabs-panel is-active" id="tab1")
+            table(id="tblUsers", class="display")
+                thead
+                tbody
+        div(class="tabs-panel" id="tab2")
+            div(class="row")
+                form(name="user", id="frmUser", class="medium-12 columns")
+                    input(type="hidden" id="hdnId" name="userId")
+                    div(class="medium-6 columns")
+                        label Nombre de usuario
+                        input(type="text" id="txtUsername" name="username" data-error-message="Nombre de usuario requerido")
+                    div(class="medium-6 columns")
+                        label Nombre Completo
+                        input(type="text" id="txtFullName" name="fullName" data-error-message="Nombre completo requerido")
+                    div(class="medium-6 columns")
+                        label Email
+                        input(type="text" id="txtEmail" name="email" data-error-message="Email requerido")
+                    div(class="medium-6 columns")
+                        label Contraseña
+                        input(type="text" id="txtPassword" name="password" data-error-message="Contraseña requerido")
+                    div(class="medium-6 columns")
+                        label Es Admin
+                            input(type="checkbox" id="chkIsAdmin" name="isAdmin")
+                    div(class="medium-6 columns")
+                        label Imagen
+                            input(type="text" id="txtImage" name="image" data-error-message="Imagen requerido")
+                    div(class="columns medium-12")
+                        button(type="submit", class="button", id="btnSave") Guardar
+                        = ' '
+                        button(type="button" class="button secondary hollow" id="btnCancel") Cancelar
+                    div(class="columns medium-12 error-block callout hide alert")
+                        p
+
+    div(class="reveal" id="deleteModal" data-reveal)
+        div(class="columns medium-12")
+            h2 Borrar Marca
+            p Seguro que quiere borrar el marca?
+            input(type="hidden" id="hdnDeleteId")
+            button(class="button alert" id="btnDelete" type="button" data-close arial-label="delete part") Borrar
+            = ' '
+            button(class="button secondary" type="button" data-close arial-label="delete part") Cancelar
+block javascript
+    link(rel='stylesheet', href='https://cdn.datatables.net/1.10.12/css/dataTables.foundation.min.css')
+    script(src='/javascripts/jquery.dataTables.js', type='text/javascript')
+    script(src='/javascripts/dataTables.foundation.js', type='text/javascript')
+    script(src='/javascripts/multi.tabs.js', type='text/javascript')
+    script(src='/javascripts/multi.dataTables.js', type='text/javascript')
+    script(src='/javascripts/multi.user.js', type='text/javascript')
+    script(src='/javascripts/validation.js', type='text/javascript')

@@ -1,0 +1,210 @@
+[
+  {
+    "brand": "allwin",
+    "title": "C-1024",
+    "img": "images/plotters/Allwin/C-1024.png",
+    "pdf": "Plotters/pdf/Allwin-C-1024.pdf",
+    "imgb": "images/plotters/Allwin/C-1024b.png",
+    "videoUrl": "http://www.youtube.com/embed/MttePqDieag"
+  },
+  {
+    "brand": "allwin",
+    "title": "e180",
+    "img": "images/plotters/Allwin/e180.png",
+    "pdf": "Plotters/pdf/E-180x1.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/E86bZP_q93o"
+  },
+  {
+    "brand": "allwin",
+    "title": "e180x2",
+    "img": "images/plotters/Allwin/e180x2.png",
+    "pdf": "Plotters/pdf/E-180x2.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/E86bZP_q93o"
+  },
+  {
+    "brand": "allwin",
+    "title": "e180x4",
+    "img": "images/plotters/Allwin/e180x4.png",
+    "pdf": "Plotters/pdf/E-180x4.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/E86bZP_q93o"
+  },
+  {
+    "brand": "allwin",
+    "title": "e320x2",
+    "img": "images/plotters/Allwin/e320x2.png",
+    "pdf": "Plotters/pdf/E-320x2.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/NzrY8BBKgf4"
+  },
+  {
+    "brand": "allwin",
+    "title": "e320x4",
+    "img": "images/plotters/Allwin/e320x4.png",
+    "pdf": "Plotters/pdf/E-320x4.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/SBCUkX1CjBc?list=UUub4JkvgD76jlM4tDee1tgA"
+  },
+  {
+    "brand": "roland",
+    "title": "SOLJET XF-640",
+    "img": "images/plotters/Roland/SOLJET XF-640.png",
+    "pdf": "Plotters/pdf/XF640.pdf",
+    "imgb": "images/plotters/Roland/SOLJET-XF-640b.png",
+    "videoUrl": "http://www.youtube.com/embed/LAeutVBxffw"
+  },
+  {
+    "brand": "roland",
+    "title": "BN20",
+    "img": "images/plotters/Roland/rolandbn20.png",
+    "pdf": "Plotters/pdf/bn20.pdf",
+    "imgb": "images/plotters/Roland/rolandbn20b.png",
+    "videoUrl": "http://www.youtube.com/embed/d6J1yLQyGNE"
+  },
+  {
+    "brand": "roland",
+    "title": "SOLJET Pro 4 XR-640",
+    "img": "images/plotters/Roland/SOLJET-Pro-4-XR-640.png",
+    "pdf": "Plotters/pdf/XR640.pdf",
+    "imgb": "images/plotters/Roland/SOLJET-Pro-4-XR-640b.png",
+    "videoUrl": "http://www.youtube.com/embed/cbiKhOapZ3s"
+  },
+  {
+    "brand": "roland",
+    "title": "VersaUV LEC-540",
+    "img": "images/plotters/Roland/VersaUV LEC-540.png",
+    "pdf": "Plotters/pdf/LEC.pdf",
+    "imgb": "images/plotters/Roland/VersaUV-LEC-540b.png",
+    "videoUrl": "http://www.youtube.com/embed/nigansDpAIQ"
+  },
+  {
+    "brand": "roland",
+    "title": "VersaCAMM SP-300i",
+    "img": "images/plotters/Roland/VersaCAMM SP-300i.png",
+    "pdf": "Plotters/pdf/SP300i.pdf",
+    "imgb": "images/plotters/Roland/VersaCAMM SP-300ib.png",
+    "videoUrl": "http://www.youtube.com/embed/hRaNXf8IJxg"
+  },
+  {
+    "brand": "roland",
+    "title": "VersaCamm VS-640",
+    "img": "images/plotters/Roland/VersaCamm VS-640.png",
+    "pdf": "Plotters/pdf/VS640.pdf",
+    "imgb": "images/plotters/Roland/VersaCamm VS-640b.png",
+    "videoUrl": "http://www.youtube.com/embed/i1Gv4fmAyRw"
+  },
+  {
+    "brand": "roland",
+    "title": "Versa EXPRESS RF-640",
+    "img": "images/plotters/Roland/Versa EXPRESS RF-640.png",
+    "pdf": "Plotters/pdf/rf640.pdf",
+    "imgb": "images/plotters/Roland/Versa-EXPRESS-RF-640b.png",
+    "videoUrl": "http://www.youtube.com/embed/TTyewg9xi18"
+  },
+  {
+    "brand": "roland",
+    "title": "AdvancedJET AJ-1000i",
+    "img": "images/plotters/Roland/AdvancedJET AJ-1000i.png",
+    "pdf": "Plotters/pdf/AJ1000i.pdf",
+    "imgb": "images/plotters/Roland/AdvancedJET-AJ-1000ib.png",
+    "videoUrl": "http://www.youtube.com/embed/J-eCAT4LsUU"
+  },
+  {
+    "brand": "roland",
+    "title": "VersaUV LEJ-640",
+    "img": "images/plotters/Roland/VersaUV LEJ-640.png",
+    "pdf": "Plotters/pdf/LEJ640.pdf",
+    "imgb": "images/plotters/Roland/VersaUV-LEJ-640b.png",
+    "videoUrl": "http://www.youtube.com/embed/7OfM9xaFkA8"
+  },
+  {
+    "brand": "roland",
+    "title": "VersaART RE-640",
+    "img": "images/plotters/Roland/VersaART RE-640.png",
+    "pdf": "Plotters/pdf/RE640.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/1pLbjX_ERj8"
+  },
+  {
+    "brand": "roland",
+    "title": "Hi-Fi Express FP-740",
+    "img": "images/plotters/Roland/Hi-Fi Express FP-740.png",
+    "pdf": "Plotters/pdf/FP740.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/y43wm0hFjzA"
+  },
+  {
+    "brand": "roland",
+    "title": "VersaUV LEF-20",
+    "img": "images/plotters/Roland/VersaUV LEF-20.png",
+    "pdf": "Plotters/pdf/LEF20.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/AV_YRv36Yxo"
+  },
+  {
+    "brand": "roland",
+    "title": "VersaUV LEF-12",
+    "img": "images/plotters/Roland/VersaUV LEF-12.png",
+    "pdf": "Plotters/pdf/LEF20.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/iDbEBrzgcjE"
+  },
+  {
+    "brand": "roland",
+    "title": "CAMM-1 Servo GX-24",
+    "img": "images/plotters/Roland/CAMM-1 Servo GX-24.png",
+    "pdf": "Plotters/pdf/GX24.pdf",
+    "imgb": "images/plotters/Roland/CAMM-1-Servo-GX-24b.png",
+    "videoUrl": "http://www.youtube.com/embed/f-0hViMnrzI"
+  },
+  {
+    "brand": "roland",
+    "title": "GX PRO 300/400/500",
+    "img": "images/plotters/Roland/GX PRO 300400500.png",
+    "pdf": "Plotters/pdf/GX24.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/kkXK66IiIlc"
+  },
+  {
+    "brand": "graphtec",
+    "title": "CE6000-60",
+    "img": "images/plotters/Graphtec/CE6000-60.jpg",
+    "pdf": "Plotters/pdf/CE6000-SERIES.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "https://www.youtube.com/embed/YT7tgeMHyZs"
+  },
+  {
+    "brand": "graphtec",
+    "title": "CE6000-120",
+    "img": "images/plotters/Graphtec/CE6000-120.jpg",
+    "pdf": "Plotters/pdf/CE6000-SERIES.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "https://www.youtube.com/embed/YT7tgeMHyZs"
+  },
+  {
+    "brand": "om",
+    "title": "Grafica Corporea",
+    "img": "images/plotters/OtrasMaquinas/polyfan.png",
+    "pdf": "Plotters/pdf/CortadoraPolyfan.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "https://www.youtube.com/embed/oLzDQRbHTHI"
+  },
+  {
+    "brand": "om",
+    "title": "Laminadora Strata 1600 AH-D",
+    "img": "images/plotters/OtrasMaquinas/Laminadora.png",
+    "pdf": "#",
+    "imgb": "images/plotters/OtrasMaquinas/LaminadoraB.png",
+    "videoUrl": "#"
+  },
+  {
+    "brand": "mutoh",
+    "title": "DrafStation RJ-900X",
+    "img": "images/plotters/Mutoh/DrafStation RJ-900X.png",
+    "pdf": "Plotters/pdf/BrochureRJ900X-ES.pdf",
+    "imgb": "images/plotters/Imagenb.png",
+    "videoUrl": "http://www.youtube.com/embed/YDo1DzglPCI"
+  }
+]

@@ -1,0 +1,72 @@
+//
+   Created by smagne on 10/18/2016.
+
+extends ../layout
+
+block menu
+    ul(class="menu")
+        li
+            a(href="/") Inicio
+        li
+            a(href="/users/") Usuarios
+        li
+            a(href="/brands/") Marcas Plotters
+        li
+            a(href="/plotter/") Plotters
+        li
+            a(href="/supplies/") Suministros
+        li
+            a(href="/parts/") Repuestos
+        li
+            a(href="/services/") Servicios
+
+block content
+    h1 Repuestos
+    button(class="button" type="button" id="btnCreate") Crear
+    ul(class="tabs" data-tabs id="cms-tabs")
+        li(class="tabs-title is-active")
+            a(href="#tab1" aria-selected="true") Lista
+        li(class="tabs-title")
+            a(href="#tab2" aria-selected="true") Crear/Editar
+
+    div(class="tabs-content" data-tabs-content="cms-tabs")
+        div(class="tabs-panel is-active" id="tab1")
+            table(id="tblParts", class="display")
+                thead
+                tbody
+        div(class="tabs-panel" id="tab2")
+            div(class="row")
+                form(name="part", id="frmPart", class="medium-12 columns")
+                    input(type="hidden" id="hdnId" name="partid")
+                    div(class="medium-6 columns")
+                        label Repuesto
+                            input(type="text" id="txtPart" name="part" data-error-message="Repuesto requerido")
+                    div(class="medium-6 columns")
+                        label Descripcion
+                            input(type="text" id="txtDescription" name="description" data-error-message="Descripcion requerida")
+                    div(class="medium-6 columns")
+                        label Imagen Principal
+                            input(type="text" id="txtMainImage" name="mainImage" data-error-message="Imagen Principal requerido")
+                    div(class="columns medium-12")
+                        button(type="submit", class="button", id="btnSave") Guardar
+                        = ' '
+                        button(type="button" class="button secondary hollow" id="btnCancel") Cancelar
+                    div(class="columns medium-12 error-block callout hide alert")
+                        p
+
+    div(class="reveal" id="deleteModal" data-reveal)
+        div(class="columns medium-12")
+            h2 Borrar Repuesto
+            p Seguro que quiere borrar el repuesto?
+            input(type="hidden" id="hdnDeleteId")
+            button(class="button alert" id="btnDelete" type="button" data-close arial-label="delete part") Borrar
+            = ' '
+            button(class="button secondary" type="button" data-close arial-label="delete part") Cancelar
+block javascript
+    link(rel='stylesheet', href='https://cdn.datatables.net/1.10.12/css/dataTables.foundation.min.css')
+    script(src='/javascripts/jquery.dataTables.js', type='text/javascript')
+    script(src='/javascripts/dataTables.foundation.js', type='text/javascript')
+    script(src='/javascripts/multi.tabs.js', type='text/javascript')
+    script(src='/javascripts/multi.dataTables.js', type='text/javascript')
+    script(src='/javascripts/multi.parts.js', type='text/javascript')
+    script(src='/javascripts/validation.js', type='text/javascript')

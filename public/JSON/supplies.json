@@ -1,0 +1,794 @@
+[
+  {
+    "name": "Arlon 5000",
+    "type": "Vinilos de Corte",
+    "width": "0.61",
+    "length": "45,7",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "Five star",
+    "type": "Vinilos de Corte",
+    "width": "0.61",
+    "length": "50",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "LG 4700",
+    "type": "Vinilos de Corte",
+    "width": "0.61",
+    "length": "50",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "McCal 6000",
+    "type": "Vinilos de Corte",
+    "width": "0.61",
+    "length": "50",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "One Sign",
+    "type": "Vinilos de Corte",
+    "width": "0.61",
+    "length": "45,7",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "Oracal 100",
+    "type": "Vinilos de Corte",
+    "width": "0.63",
+    "length": "50",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "Oracal 638",
+    "type": "Vinilos de Corte",
+    "width": "0.63",
+    "length": "50",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "Oracal 641",
+    "type": "Vinilos de Corte",
+    "width": "0.63",
+    "length": "50",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "Oracal 651",
+    "type": "Vinilos de Corte",
+    "width": "0.63",
+    "length": "50",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "Oracal 651",
+    "type": "Vinilos de Corte",
+    "width": "1.26",
+    "length": "50",
+    "category": "Vinilos de Corte",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Max Oro/Plata",
+    "type": "Metalizado Poliester",
+    "width": "0.61",
+    "length": "50",
+    "category": "Metalizado Poliester",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape Oro/Plata/Cepillado",
+    "type": "Metalizado Poliester",
+    "width": "0.61",
+    "length": "45,7",
+    "category": "Metalizado Poliester",
+    "price": "Consultar"
+  },
+  {
+    "name": "Five Star",
+    "type": "Fluorescentes",
+    "width": "0.61",
+    "length": "50",
+    "category": "Fluorescentes",
+    "price": "Consultar"
+  },
+  {
+    "name": "Oracal 6510",
+    "type": "Fluorescentes",
+    "width": "0.63",
+    "length": "50",
+    "category": "Fluorescentes",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape",
+    "type": "Efectos Especiales",
+    "width": "0.61",
+    "length": "45,7",
+    "category": "Efectos Especiales",
+    "price": "Consultar"
+  },
+  {
+    "name": "Five star",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "50",
+    "category": "Esmerilados",
+    "price": "Consultar"
+  },
+  {
+    "name": "Five star",
+    "type": "Esmerilados",
+    "width": "1.22",
+    "length": "50",
+    "category": "Esmerilados",
+    "price": "Consultar"
+  },
+  {
+    "name": "LG",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "50",
+    "category": "Esmerilados",
+    "price": "Consultar"
+  },
+  {
+    "name": "LG",
+    "type": "Esmerilados",
+    "width": "1.22",
+    "length": "50",
+    "category": "Esmerilados",
+    "price": "Consultar"
+  },
+  {
+    "name": "McCal",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "50",
+    "category": "Esmerilados",
+    "price": "Consultar"
+  },
+  {
+    "name": "LL500 reflectivo",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "45,7",
+    "category": "Reflectivos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Reflectivo grado ing.",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "45,7",
+    "category": "Reflectivos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Five Star",
+    "type": "Esmerilados",
+    "width": "1,52",
+    "length": "50",
+    "category": "Fibra Carbono",
+    "price": "Consultar"
+  },
+  {
+    "name": "One Sign",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "45,7",
+    "category": "Fibra Carbono",
+    "price": "Consultar"
+  },
+  {
+    "name": "LG",
+    "type": "Esmerilados",
+    "width": "1,52",
+    "length": "30",
+    "category": "Fibra Carbono",
+    "price": "Consultar"
+  },
+  {
+    "name": "McCal",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "50",
+    "category": "Fibra Carbono",
+    "price": "Consultar"
+  },
+  {
+    "name": "Five Star",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "50",
+    "category": "Trasparentes",
+    "price": "Consultar"
+  },
+  {
+    "name": "Oracal 8300",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "50",
+    "category": "Trasparentes",
+    "price": "Consultar"
+  },
+  {
+    "name": "P/Parantes Rugoso Mccal",
+    "type": "Esmerilados",
+    "width": "0.61",
+    "length": "50",
+    "category": "Negro Mate",
+    "price": "Consultar"
+  },
+  {
+    "name": "American Flex/Termo Flex Colores",
+    "type": "Vinilos Termotransferible",
+    "width": "0.5",
+    "length": "",
+    "category": "Vinilo Termotransferible",
+    "price": "Consultar"
+  },
+  {
+    "name": "Flex Silver-Gold",
+    "type": "Vinilos Termotransferible",
+    "width": "0.5",
+    "length": "",
+    "category": "Vinilo Termotransferible",
+    "price": "Consultar"
+  },
+  {
+    "name": "Reflectivo blanco",
+    "type": "Vinilos Termotransferible",
+    "width": "0.5",
+    "length": "",
+    "category": "Vinilo Termotransferible",
+    "price": "Consultar"
+  },
+  {
+    "name": "Aluminio/Plata/Oro/Tornasolado",
+    "type": "Vinilos Termotransferible",
+    "width": "0.5",
+    "length": "",
+    "category": "Vinilo Termotransferible",
+    "price": "Consultar"
+  },
+  {
+    "name": "Efectos especiales",
+    "type": "Vinilos Termotransferible",
+    "width": "0.5",
+    "length": "",
+    "category": "Vinilo Termotransferible",
+    "price": "Consultar"
+  },
+  {
+    "name": "Flock termotransferible",
+    "type": "Vinilos Termotransferible",
+    "width": "0.5",
+    "length": "",
+    "category": "Vinilo Termotransferible",
+    "price": "Consultar"
+  },
+  {
+    "name": "Fluo, colores varios",
+    "type": "Vinilos Termotransferible",
+    "width": "0.5",
+    "length": "",
+    "category": "Vinilo Termotransferible",
+    "price": "Consultar"
+  },
+  {
+    "name": "Blanco para impresión",
+    "type": "Vinilos Termotransferible",
+    "width": "0.5",
+    "length": "",
+    "category": "Vinilo Termotransferible",
+    "price": "Consultar"
+  },
+  {
+    "name": "Imán plano 0,35 mm",
+    "type": "Imán",
+    "width": "0.5",
+    "length": "",
+    "category": "Imán",
+    "price": "Consultar"
+  },
+  {
+    "name": "Imán plano 0,4 mm",
+    "type": "Imán",
+    "width": "0.5",
+    "length": "",
+    "category": "Imán",
+    "price": "Consultar"
+  },
+  {
+    "name": "Imán vehicular 0,4 mm",
+    "type": "Imán",
+    "width": "0.5",
+    "length": "",
+    "category": "Imán",
+    "price": "Consultar"
+  },
+  {
+    "name": "Imán vehicular 0,8 mm",
+    "type": "Imán",
+    "width": "0.5",
+    "length": "",
+    "category": "Imán",
+    "price": "Consultar"
+  },
+  {
+    "name": "Imán c/adhesivo 0,35 mm",
+    "type": "Imán",
+    "width": "0.5",
+    "length": "",
+    "category": "Imán",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape x 100",
+    "type": "Posicionadores/Transfer",
+    "width": "0.61",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape x 100",
+    "type": "Posicionadores/Transfer",
+    "width": "0.3",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape x 100",
+    "type": "Posicionadores/Transfer",
+    "width": "0.1",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape x 50",
+    "type": "Posicionadores/Transfer",
+    "width": "0.61",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape x 50",
+    "type": "Posicionadores/Transfer",
+    "width": "0.3",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape x 50",
+    "type": "Posicionadores/Transfer",
+    "width": "0.1",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape x 100 Transparente",
+    "type": "Posicionadores/Transfer",
+    "width": "0.61",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape x 100 Transparente",
+    "type": "Posicionadores/Transfer",
+    "width": "0.3",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "R-Tape x 100 Transparente",
+    "type": "Posicionadores/Transfer",
+    "width": "0.1",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "Promocional x 50mts",
+    "type": "Posicionadores/Transfer",
+    "width": "0.61",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "Promocional x 50mts",
+    "type": "Posicionadores/Transfer",
+    "width": "0.3",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "Promocional x 50mts",
+    "type": "Posicionadores/Transfer",
+    "width": "0.1",
+    "length": "",
+    "category": "Posicionadores/Transfer",
+    "price": "Consultar"
+  },
+  {
+    "name": "Aplicadoras",
+    "type": "Espátulas",
+    "width": "Consultar",
+    "length": "",
+    "category": "Espátulas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Roland/Mimaki/Graphtec 30º/45º/60º",
+    "type": "Cuchillas",
+    "width": "Consultar",
+    "length": "",
+    "category": "Cuchillas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Laca UV brillante",
+    "type": "Laca UV",
+    "width": "Consultar",
+    "length": "",
+    "category": "Laca UV",
+    "price": "Consultar"
+  },
+  {
+    "name": "Portabanner simple tensor con bolso",
+    "type": "Portabanners",
+    "width": "0.90x1.90",
+    "length": "",
+    "category": "Portabanners",
+    "price": "Consultar"
+  },
+  {
+    "name": "Portabanner doble tensor con bolso",
+    "type": "Portabanners",
+    "width": "0.90x1.90",
+    "length": "",
+    "category": "Portabanners",
+    "price": "Consultar"
+  },
+  {
+    "name": "Promocional",
+    "type": "Calandrado Brillante/Mate",
+    "width": "1,06/1,27/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Promocional",
+    "type": "Calandrado Brillante/Mate Base Negra",
+    "width": "1,06/1,27/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Promocional",
+    "type": "Clear/transparente Brillante/Mate",
+    "width": "1,06/1,27/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "LG Hausys",
+    "type": "2700 calandrado base blanca 3 años brillante/mate",
+    "width": "1,06/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "LG Hausys",
+    "type": "2710 calandrado base gris 3 años brillante/mate",
+    "width": "1,06/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "LG Hausys",
+    "type": "3811 calandrado base gris 4 años brillante/mate",
+    "width": "1,06/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "LG Hausys",
+    "type": "391T calandrado base gris buble free 4 años brillante/mate",
+    "width": "1,06/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Avery",
+    "type": "MPI 3800/3820 base blanca 3 años brillante/mate",
+    "width": "1,06/1,27/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Avery",
+    "type": "MPI 3803/3823 base gris 3 años brillante/mate",
+    "width": "1,06/1,27/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Avery",
+    "type": "Polimerico vehicular Easy Apply x 45,7",
+    "width": "1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Avery",
+    "type": "FC320 Value Film Matte",
+    "width": "1,06/1,27/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "3M",
+    "type": "Calandrado brillante/Mate 3 años IJ21",
+    "width": "1,06/1,27/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "3M",
+    "type": "Calandrado brillante 3 años IJ22",
+    "width": "1,06/1,27/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Oracal",
+    "type": "Calandrado brillante 4 años 3164",
+    "width": "1,06/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Oracal",
+    "type": "Calandrado brillante 4 años 3651",
+    "width": "1,06/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Microperforado",
+    "type": "One way Vision",
+    "width": "1,06/1,27/1,37/1,52",
+    "length": "",
+    "category": "Vinilos",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Base gris 11 oz 300x500",
+    "width": "1/1,60/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Base gris 13 oz 300x500",
+    "width": "1/1,10/1,20/1,37/1,60/1,80/2,20/2,50/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Base blanca 13 oz 300x500",
+    "width": "1/1,60/2,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Base negra 8oz 500x500",
+    "width": "2,20/2,50/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Base negra 8oz 840x840",
+    "width": "2,50/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Base gris 9oz 500x500",
+    "width": "2,20/2,50/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas blackout",
+    "type": "Bifaz 13 oz",
+    "width": "1/1,60/2,05/2,20/2,50/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas backlight",
+    "type": "13 oz",
+    "width": "1/,20/1,37/1,60/2,05/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Mesh 1812",
+    "type": "-",
+    "width": "1,60/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Mesh 9v",
+    "type": "-",
+    "width": "1,60/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Ultraflex 13oz",
+    "width": "1/1,37/1,60/2,20/2,50/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Jetflex",
+    "width": "1/1,37/1,60/2,20/2,50/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Highflex 13oz",
+    "width": "1/1,37/1,60/2,20/2,50/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Lonas frontlight",
+    "type": "Starflex 13oz",
+    "width": "1/1,37/1,60/2,20/2,50/3,20",
+    "length": "",
+    "category": "Lonas",
+    "price": "Consultar"
+  },
+  {
+    "name": "NUtec cmyk+lc+lm",
+    "type": "T11",
+    "width": "1 litro",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  },
+  {
+    "name": "NUtec cmyk+lc+lm",
+    "type": "T21",
+    "width": "1 litro",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  },
+  {
+    "name": "NUtec cmyk",
+    "type": "Emerald",
+    "width": "1 litro",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  },
+  {
+    "name": "NUtec cmyk",
+    "type": "T51",
+    "width": "5 litros",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  },
+  {
+    "name": "NUtec",
+    "type": "Solvente de limpieza",
+    "width": "1 litro",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Red Giant cmyk+lc+lm",
+    "type": "Cartucho Eco solvente",
+    "width": "440 cc",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Red Giant cmyk+lc+lm",
+    "type": "Eco solvente",
+    "width": "1 litro",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Sun Micro cmyk+lc+lm",
+    "type": "Cartucho Eco solvente",
+    "width": "440 cc",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Sun Micro cmyk+lc+lm",
+    "type": "Eco solvente",
+    "width": "1 litro",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  },
+  {
+    "name": "Roland",
+    "type": "Eco sol Max",
+    "width": "440 cc",
+    "length": "",
+    "category": "Tintas",
+    "price": "Consultar"
+  }
+]
